@@ -1,0 +1,269 @@
+
+.I {
+    color: #fff;
+   text-align: center;
+}
+
+.header1 {
+    color: #289dcc;
+    font-size: 25px;
+}
+
+.mybig1 {
+    font-size: 2em!important;
+    background-color: #fff;
+    color: rgb(255, 255, 255);
+    
+}
+.mybig1l {
+    display: inline-block;
+    padding: 0.5rem 0.5rem;
+    min-width: 10rem;
+    border-radius: 10px;
+    margin: 0.5rem;
+    background: rgb(32, 32, 31);
+    width: 15%;
+}
+
+.textbox {
+    width: 100%;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    --webkit-appearance: none;
+    -webkit-appearance: none;
+    padding: 0.7rem 1rem;
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-radius: 11px;
+    -webkit-transition-duration: 0.25s;
+    transition-duration: 0.25s;
+    border-radius: 5px;
+    border: 2px solid #dddddd;
+    text-align-last: center;
+    background-repeat: no-repeat;
+    background-position: right 0.75rem center;
+    background-size: 16px 12px;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23343a40' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M2 5l6 6 6-6'/%3e%3c/svg%3e");
+    font-size: 25px;
+}
+
+.II {
+    background: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.mybig2 {
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    display: inline-block;
+    padding: 0.5rem 0.5rem;
+    min-width: 10rem;
+    border-radius: 10px;
+    margin: 0.5rem;
+    background: rgb(255, 255, 255);
+    width: 15%;
+}
+
+.textbox2 {
+    width: 50%;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    --webkit-appearance: none;
+    -webkit-appearance: none;
+    padding: 0.7rem 1rem;
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-radius: 11px;
+    -webkit-transition-duration: 0.25s;
+    transition-duration: 0.25s;
+    border-radius: 10px;
+    border: 2px solid #dddddd;
+    text-align-last: center;
+    background-repeat: no-repeat;
+    background-position: right 0.75rem center;
+    background-size: 16px 12px;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23343a40' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M2 5l6 6 6-6'/%3e%3c/svg%3e");
+    font-size: 25px;
+}
+
+.lot input{
+    width: 300px;
+    height: 3rem;
+    transform: translate(48%,-50%);
+    border: 2px solid;
+    background:transparent;
+    border-radius: 25px;
+    font-size: 25px;
+    color: var(--color-light);
+    padding-left: 15px;
+    outline: none;
+    width: 20%;
+    display: block;
+   
+}
+
+.mybig3 {
+   
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    padding: 0.5rem 1rem;
+    min-width: 10rem;
+    border-radius: 10px;
+    margin: 0.5rem;
+    background: rgb(255, 255, 255);
+    width: 10%;
+    text-align: right;
+    
+}
+
+.mybig4 {
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    padding: 1.5rem 1.5rem;
+    min-width: 10rem;
+    border-radius: 10px;
+    margin: 1rem;
+    background: rgb(255, 255, 255);
+    width: 15%;
+    text-align: center;
+    display: flex;
+}
+
+.lotto-title h1 {
+    font-size: 2em;
+}
+
+.lotto-digit,
+.lotto-title h2 {
+    font-size: 1.5em;
+    color: green;
+    letter-spacing: 2px;
+    display: inline-block;
+    float: none;
+    padding: 0 0;
+    text-align: center;
+    vertical-align: top;
+    line-height: 1.2;
+    width: 100%
+}
+
+.lotto-title {
+    color: #bd9331;
+    font-size: 0.75em;
+    text-align: center;
+}
+
+.lotto-title>h2 {
+    font-size: 1.5em;
+}
+
+.lotto-form_input {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #fff;
+    background-image: none;
+    border-bottom-color: #ed501e;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-image-outset: 0 0 0 0;
+    border-image-repeat: stretch stretch;
+    border-image-slice: 100% 100% 100% 100%;
+    border-image-source: none;
+    border-image-width: 1 1 1 1;
+    border-left-color: #ed501e;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: #ed501e;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: #ed501e;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-top-style: solid;
+    border-top-width: 1px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+    color: #555;
+    display: block;
+    font-size: 14px;
+    height: 40px;
+    line-height: 1.42857;
+    padding-bottom: 6px;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 6px;
+    transition-delay: 0s, 0s;
+    transition-duration: 0.15s, 0.15s;
+    transition-property: border-color, box-shadow;
+    transition-timing-function: ease-in-out, ease-in-out;
+    width: 99%;
+    margin: 2px 2px;
+}
+
+.lotto-check-list {
+    text-overflow: '';
+    text-indent: 1px;
+    border-radius: 1px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    height: 50px;
+    font-size: 16px;
+    font-size: 1.2em;
+    color: #2f2f2f;
+    padding: 13px 24px 5px 9px;
+    margin-bottom: 10px;
+    width: 282px;
+    overflow: hidden;
+    background: url("https://i0.wp.com/www.lottery.co.th/down_arrow_select.jpg") no-repeat right #ddd;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    -o-appearance: none;
+    appearance: none;
+    width: 100%;
+    text-align: center;
+}
+
+select.lotto-check-list::-ms-expand {
+    display: none;
+}
+
+.add_field {
+    display: none
+}
+
+.btn-checksearch2.btn {
+    width: 99%;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 5px 0px;
+    cursor: pointer;
+}
+
+.btn-checksearch.btn {
+    width: 99%;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 5px 0px;
+    cursor: pointer;
+}
+
+.III {
+    text-align: center;
+}
